@@ -1,0 +1,592 @@
+[
+  {
+    "qid": "q_78ea00b1",
+    "question": "What was Alice's initial reaction to the book her sister was reading?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_ad3257d5",
+    "question": "What did Alice consider doing to alleviate her boredom before she saw the White Rabbit?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_f3b565eb",
+    "question": "How did Alice react when she saw the White Rabbit take out a watch?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_3b08bac3",
+    "question": "What did Alice experience as she fell down the rabbit-hole?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_ad49b872",
+    "question": "What did Alice observe on the sides of the well as she fell?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_13181048",
+    "question": "How did Alice manage to place the empty marmalade jar into a cupboard?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_18a6846e",
+    "question": "Why did Alice start talking about Latitude and Longitude during her fall?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_e077cd93",
+    "question": "What did Alice find when she first tried to open the doors in the hall?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_eb50d61b",
+    "question": "What did Alice hope to find when she went back to the glass table after discovering the small door?",
+    "docid": "alice:ch01"
+  },
+  {
+    "qid": "q_e768216e",
+    "question": "What did Alice mean when she said she was opening out like the largest telescope?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_01fee843",
+    "question": "Why did Alice worry about who would put on shoes and stockings for her feet?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_3269cf96",
+    "question": "What caused Alice to strike her head against the roof of the hall?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_ea704146",
+    "question": "Why did the White Rabbit drop his gloves and fan when Alice spoke to him?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_9e0123f4",
+    "question": "What realization did Alice have when she started reciting the altered poem about the crocodile?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "question": "What was Alice's reaction after she found herself shrinking rapidly?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_723e299a",
+    "question": "How did Alice end up in the pool of tears, and what was her first thought about it?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_241bd20e",
+    "question": "How did Alice attempt to communicate with the Mouse in the pool of tears?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_8a39905e",
+    "question": "What was the Mouse's reaction to Alice's mention of cats, and how did Alice try to make amends?",
+    "docid": "alice:ch02"
+  },
+  {
+    "qid": "q_9c131c77",
+    "question": "What was the appearance of the party assembled on the bank?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_e87b0914",
+    "question": "How did Alice feel about talking with the creatures as if she had known them all her life?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_d0cdf537",
+    "question": "Why did Alice argue with the Lory, and what was the outcome?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_19a491b9",
+    "question": "What role did the Mouse play in the group's attempt to get dry?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_34fd6443",
+    "question": "What method did the Dodo propose to get everyone dry, and what is a Caucus-race?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_1ea3be3c",
+    "question": "How did the Dodo determine the winner of the Caucus-race?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_94504854",
+    "question": "What did Alice use as prizes for the race participants?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_8c57ccea",
+    "question": "Why did Alice feel the need to give herself a prize, and what was it?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_08810a06",
+    "question": "How did Alice's mention of Dinah affect the group, and what was her reaction afterward?",
+    "docid": "alice:ch03"
+  },
+  {
+    "qid": "q_98f5a796",
+    "question": "What was the White Rabbit looking for in the beginning of the chapter?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_351bc329",
+    "question": "Why did the White Rabbit mistake Alice for Mary Ann?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_8fee98d1",
+    "question": "What did Alice find on the table inside the Rabbit's house?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_20b73ec7",
+    "question": "What happened to Alice after she drank from the bottle she found?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_f43a3776",
+    "question": "How did Alice manage to stop growing after drinking from the bottle?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_fb55cb2b",
+    "question": "What did the Rabbit and others plan to do to get Alice out of the house?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_29d8002c",
+    "question": "Who was Bill, and what happened to him during the commotion in the Rabbit's house?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_16389b79",
+    "question": "How did Alice manage to escape from the house after shrinking?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_4c7ca03c",
+    "question": "What did Alice encounter in the wood after escaping the Rabbit's house?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_fdcb26f4",
+    "question": "What dilemma did Alice face after meeting the puppy in the wood?",
+    "docid": "alice:ch04"
+  },
+  {
+    "qid": "q_a2b5a36e",
+    "question": "What was the initial question the Caterpillar asked Alice?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_36ca592d",
+    "question": "How did Alice describe her sense of identity to the Caterpillar?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_b738d89b",
+    "question": "What does Alice mention about changing sizes throughout the day?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_782dd338",
+    "question": "How did the Caterpillar respond to Alice's explanation of changing sizes?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_71aa6bdb",
+    "question": "How did Alice's recitation differ from the original poem?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_ad8545ae",
+    "question": "What did the Caterpillar tell Alice about the mushroom?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "question": "What effect did eating the mushroom have on Alice?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_52e0058f",
+    "question": "How did Alice react to the sudden change in her size after eating the mushroom?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_b05b0f52",
+    "question": "What misunderstanding did the Pigeon have about Alice's identity?",
+    "docid": "alice:ch05"
+  },
+  {
+    "qid": "q_2ef3c379",
+    "question": "Why did Alice consider the first footman to be a fish?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_b1567aa0",
+    "question": "What was the invitation that the Fish-Footman delivered?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_a68bb337",
+    "question": "What did Alice observe about the appearance of the footmen?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_88da2802",
+    "question": "What was Alice's reaction to the footmen's curls getting entangled?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_d687a57d",
+    "question": "Why did the Footman say knocking was useless?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_353804bb",
+    "question": "What was causing the extraordinary noise inside the house?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_43b067ea",
+    "question": "How did Alice finally get into the house?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_61a8fc9b",
+    "question": "What was unusual about the baby the Duchess was nursing?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_5b2edfc4",
+    "question": "How did the Duchess respond to Alice's question about the Cheshire Cat?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_908fe0b3",
+    "question": "What happened to the baby after Alice took it outside?",
+    "docid": "alice:ch06"
+  },
+  {
+    "qid": "q_ff96e0bb",
+    "question": "Who were having tea at the table set out under the tree?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_2373a59d",
+    "question": "Why did Alice think it was uncomfortable for the Dormouse?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_1a9a349e",
+    "question": "What was Alice's reaction when she was offered wine?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_1c4860e4",
+    "question": "What did the Hatter suggest about Alice's appearance?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_4b9b8a2e",
+    "question": "What riddle did the Hatter ask Alice?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_c9e884cc",
+    "question": "Why did the Hatter say his watch was two days wrong?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_5add752b",
+    "question": "What peculiar property did the Hatter's watch have according to Alice?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_65716b4c",
+    "question": "How did the Hatter describe his relationship with Time?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_7fc23724",
+    "question": "Why did the Hatter say it was always six o'clock?",
+    "docid": "alice:ch07"
+  },
+  {
+    "qid": "q_5ce45c00",
+    "question": "Why were the gardeners painting the white roses red?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_e5df37e1",
+    "question": "What did Five complain about while painting the roses?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_ab88440b",
+    "question": "How did Alice react to the Queen's procession?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_1e6803c9",
+    "question": "What was unusual about the croquet game Alice participated in?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_a573f3f5",
+    "question": "How did the Queen react when Alice questioned her authority?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "question": "What role did the Cheshire Cat play in Alice's experience on the croquet-ground?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_8f2cc38c",
+    "question": "Why was the Duchess under sentence of execution?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_37dd2184",
+    "question": "What was the argument between the King, Queen, and executioner about the Cheshire Cat?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_5b8bd3f8",
+    "question": "How did Alice manage to protect the gardeners from being beheaded?",
+    "docid": "alice:ch08"
+  },
+  {
+    "qid": "q_4f44cfb1",
+    "question": "Why was Alice glad to see the Duchess in a pleasant mood?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_01a628d5",
+    "question": "What did Alice speculate was the cause of the Duchess's previous bad temper?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_f6a61b35",
+    "question": "How does the Duchess react to Alice's suggestion that something might not have a moral?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_244898d9",
+    "question": "What is the Duchess's view on finding morals in situations?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_7c225ed8",
+    "question": "Why does Alice feel uncomfortable walking closely with the Duchess?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_505e28d3",
+    "question": "How does the Duchess justify not putting her arm around Alice's waist?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_51c7e77a",
+    "question": "What humorous misunderstanding occurs regarding mustard?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_78bcffc7",
+    "question": "How does the Queen's presence affect the scene with Alice and the Duchess?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_b19172fd",
+    "question": "What happens to the players during the Queen's croquet game?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_70a1bed3",
+    "question": "What is Alice's initial reaction to the Mock Turtle and Gryphon?",
+    "docid": "alice:ch09"
+  },
+  {
+    "qid": "q_5229c895",
+    "question": "Why was the Mock Turtle unable to speak initially?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_99b595c3",
+    "question": "What is the Lobster Quadrille and how is it performed?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_71cc7809",
+    "question": "Why does the Mock Turtle suggest that Alice might not have been introduced to a lobster?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_1a97db7a",
+    "question": "What is the significance of the Mock Turtle and Gryphon's dance around Alice?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_5b41be32",
+    "question": "How does Alice react to the Mock Turtle's song about the whiting?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_51c9521b",
+    "question": "What is the Gryphon's explanation for why whiting have their tails in their mouths?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_955f4066",
+    "question": "Why does the Gryphon mention that boots and shoes under the sea are done with a whiting?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_fd50095c",
+    "question": "What is the Mock Turtle's reaction to Alice's recital of the poem?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_4ee2d22a",
+    "question": "Why does the Gryphon suddenly hurry Alice away at the end of the chapter?",
+    "docid": "alice:ch10"
+  },
+  {
+    "qid": "q_034bbc2c",
+    "question": "Who were seated on the throne when Alice arrived at the court?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_2bf455d5",
+    "question": "What was the Knave of Hearts accused of stealing?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_113ac3e2",
+    "question": "Why did the jurors write down their names before the trial began?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_4de21d0e",
+    "question": "What did Alice think about the judge's appearance?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_82e2f89e",
+    "question": "How did Alice react to the squeaking pencil of one of the jurors?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_02effcea",
+    "question": "What was the first witness carrying when he entered the court?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_b88a05f7",
+    "question": "Why did the Hatter look at the March Hare and Dormouse when asked about the date?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_fea501ac",
+    "question": "What did the Queen order after the Hatter gave his evidence?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_bb928c6a",
+    "question": "How did the court suppress the guinea-pigs' cheering?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_6ba911b6",
+    "question": "Who was called as a witness after the Hatter left the court?",
+    "docid": "alice:ch11"
+  },
+  {
+    "qid": "q_a50aa18f",
+    "question": "What caused Alice to tip over the jury-box?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_6f4ebed1",
+    "question": "How did Alice's actions remind her of a previous incident with goldfish?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_7f290af8",
+    "question": "What peculiar manner did Alice put the Lizard into the jury-box?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_80a8f99e",
+    "question": "What was the King's reaction to Alice's claim of knowing nothing about the business?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_aa9caa8d",
+    "question": "How did the White Rabbit correct the King during the trial?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_7612f076",
+    "question": "What was Rule Forty-two according to the King's note-book?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_76f5a7eb",
+    "question": "How did Alice respond to the King's claim about the oldest rule in the book?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_8b4015c0",
+    "question": "What was the contents of the paper that the White Rabbit found?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_41dba178",
+    "question": "Why did the White Rabbit say the paper wasn't a letter after all?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_0fbd729b",
+    "question": "What was the King's interpretation of the verses read by the White Rabbit?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_d8d70e99",
+    "question": "How did the Queen react when Alice interrupted the court proceedings?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_059e0e4f",
+    "question": "What was Alice's reaction when the Queen ordered to have her head off?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_d5d5f4aa",
+    "question": "How did Alice's dream end, and where did she find herself?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_071339ff",
+    "question": "What did Alice's sister do after Alice woke up from her dream?",
+    "docid": "alice:ch12"
+  },
+  {
+    "qid": "q_e261599c",
+    "question": "How did Alice's sister envision Alice's future as an adult?",
+    "docid": "alice:ch12"
+  }
+]

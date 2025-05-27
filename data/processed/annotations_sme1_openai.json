@@ -1,0 +1,2063 @@
+[
+  {
+    "qid": "q_78ea00b1",
+    "docid": "alice:ch01",
+    "start": 105,
+    "end": 302,
+    "text": "once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, \"and what is the use of a book,\" thought Alice \"without pictures or conversations?\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ad3257d5",
+    "docid": "alice:ch01",
+    "start": 420,
+    "end": 530,
+    "text": "whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_f3b565eb",
+    "docid": "alice:ch01",
+    "start": 1021,
+    "end": 1243,
+    "text": "Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_3b08bac3",
+    "docid": "alice:ch01",
+    "start": 1443,
+    "end": 2378,
+    "text": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well. Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labelled \"ORANGE MARMALADE\", but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_3b08bac3",
+    "docid": "alice:ch01",
+    "start": 2379,
+    "end": 2638,
+    "text": "\"Well!\" thought Alice to herself, \"after such a fall as this, I shall think nothing of tumbling down stairs! How brave they'll all think me at home! Why, I wouldn't say anything about it, even if I fell off the top of the house!\" (Which was very likely true.)",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_3b08bac3",
+    "docid": "alice:ch01",
+    "start": 2639,
+    "end": 3354,
+    "text": "Down, down, down. Would the fall _never_ come to an end? \"I wonder how many miles I've fallen by this time?\" she said aloud. \"I must be getting somewhere near the centre of the earth. Let me see: that would be four thousand miles down, I think -- \" (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a _very_ good opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over) \" -- yes, that's about the right distance -- but then I wonder what Latitude or Longitude I've got to?\" (Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_3b08bac3",
+    "docid": "alice:ch01",
+    "start": 3355,
+    "end": 4048,
+    "text": "Presently she began again. \"I wonder if I shall fall right _through_ the earth! How funny it'll seem to come out among the people that walk with their heads downward! The Antipathies, I think -- \" (she was rather glad there _was_ no one listening, this time, as it didn't sound at all the right word) \" -- but I shall have to ask them what the name of the country is, you know. Please, Ma'am, is this New Zealand or Australia?\" (and she tried to curtsey as she spoke -- fancy _curtseying_ as you're falling through the air! Do you think you could manage it?) \"And what an ignorant little girl she'll think me for asking! No, it'll never do to ask: perhaps I shall see it written up somewhere.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_3b08bac3",
+    "docid": "alice:ch01",
+    "start": 4049,
+    "end": 5029,
+    "text": "Down, down, down. There was nothing else to do, so Alice soon began talking again. \"Dinah'll miss me very much to-night, I should think!\" (Dinah was the cat.) \"I hope they'll remember her saucer of milk at tea-time. Dinah my dear! I wish you were down here with me! There are no mice in the air, I'm afraid, but you might catch a bat, and that's very like a mouse, you know. But do cats eat bats, I wonder?\" And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, \"Do cats eat bats? Do cats eat bats?\" and sometimes, \"Do bats eat cats?\" for, you see, as she couldn't answer either question, it didn't much matter which way she put it. She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, \"Now, Dinah, tell me the truth: did you ever eat a bat?\" when suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ad49b872",
+    "docid": "alice:ch01",
+    "start": 1989,
+    "end": 2095,
+    "text": "they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_13181048",
+    "docid": "alice:ch01",
+    "start": 2237,
+    "end": 2378,
+    "text": "she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_18a6846e",
+    "docid": "alice:ch01",
+    "start": 2903,
+    "end": 3143,
+    "text": "Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a _very_ good opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over)",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_18a6846e",
+    "docid": "alice:ch01",
+    "start": 3248,
+    "end": 3354,
+    "text": "(Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_e077cd93",
+    "docid": "alice:ch01",
+    "start": 5609,
+    "end": 5837,
+    "text": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_eb50d61b",
+    "docid": "alice:ch01",
+    "start": 7177,
+    "end": 7321,
+    "text": "she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes:",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_e768216e",
+    "docid": "alice:ch02",
+    "start": 212,
+    "end": 320,
+    "text": "(for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off).",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_01fee843",
+    "docid": "alice:ch02",
+    "start": 212,
+    "end": 320,
+    "text": "(for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off).",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_01fee843",
+    "docid": "alice:ch02",
+    "start": 321,
+    "end": 510,
+    "text": "\"Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears? I'm sure _I_ shan't be able! I shall be a great deal too far off to trouble myself about you:",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_3269cf96",
+    "docid": "alice:ch02",
+    "start": 1097,
+    "end": 1134,
+    "text": "she was now more than nine feet high,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ea704146",
+    "docid": "alice:ch02",
+    "start": 2305,
+    "end": 2436,
+    "text": "The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away into the darkness as hard as he could go.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_9e0123f4",
+    "docid": "alice:ch02",
+    "start": 4247,
+    "end": 4523,
+    "text": "\"I'm sure those are not the right words,\" said poor Alice, and her eyes filled with tears again as she went on, \"I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn!",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "docid": "alice:ch02",
+    "start": 0,
+    "end": 710,
+    "text": "\"Curiouser and curiouser!\" cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); \"now I'm opening out like the largest telescope that ever was! Good-bye, feet!\" (for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off). \"Oh, my poor little feet, I wonder who will put on your shoes and stockings for you now, dears? I'm sure _I_ shan't be able! I shall be a great deal too far off to trouble myself about you: you must manage the best way you can; -- but I must be kind to them,\" thought Alice, \"or perhaps they won't walk the way I want to go! Let me see: I'll give them a new pair of boots every Christmas.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "docid": "alice:ch02",
+    "start": 1217,
+    "end": 1415,
+    "text": "Poor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "docid": "alice:ch02",
+    "start": 1416,
+    "end": 1736,
+    "text": "\"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way! Stop this moment, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "docid": "alice:ch02",
+    "start": 2144,
+    "end": 2302,
+    "text": "Alice felt so desperate that she was ready to ask help of any one; so, when the Rabbit came near her, she began, in a low, timid voice, \"If you please, sir --",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "docid": "alice:ch02",
+    "start": 2437,
+    "end": 2910,
+    "text": "Alice took up the fan and gloves, and, as the hall was very hot, she kept fanning herself all the time she went on talking: \"Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if I've been changed in the night? Let me think: was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is, Who in the world am I? Ah, _that's_ the great puzzle!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a9a22ace",
+    "docid": "alice:ch02",
+    "start": 6679,
+    "end": 6928,
+    "text": "\"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That _will_ be a queer thing, to be sure! However, everything is queer to-day.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_723e299a",
+    "docid": "alice:ch02",
+    "start": 1379,
+    "end": 1736,
+    "text": "she sat down and began to cry again. \"You ought to be ashamed of yourself,\" said Alice, \"a great girl like you,\" (she might well say this), \"to go on crying in this way! Stop this moment, I tell you!\" But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_723e299a",
+    "docid": "alice:ch02",
+    "start": 6139,
+    "end": 6265,
+    "text": "Her first idea was that she had somehow fallen into the sea, \"and in that case I can go back by railway,\" she said to herself.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_241bd20e",
+    "docid": "alice:ch02",
+    "start": 7436,
+    "end": 7778,
+    "text": "So she began: \"O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!\" (Alice thought this must be the right way of speaking to a mouse: she had never done such a thing before, but she remembered having seen in her brother's Latin Grammar, \"A mouse -- of a mouse -- to a mouse -- a mouse -- O mouse!\")",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_241bd20e",
+    "docid": "alice:ch02",
+    "start": 8137,
+    "end": 8232,
+    "text": "So she began again: \"Où est ma chatte?\" which was the first sentence in her French lesson-book.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 8233,
+    "end": 8322,
+    "text": "The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 8323,
+    "end": 8460,
+    "text": "\"Oh, I beg your pardon!\" cried Alice hastily, afraid that she had hurt the poor animal's feelings. \"I quite forgot you didn't like cats.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 8461,
+    "end": 8565,
+    "text": "\"Not like cats!\" cried the Mouse, in a shrill, passionate voice. \"Would _you_ like cats if you were me?\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 8566,
+    "end": 9233,
+    "text": "\"Well, perhaps not,\" said Alice in a soothing tone: \"don't be angry about it. And yet I wish I could show you our cat Dinah: I think you'd take a fancy to cats if you could only see her. She is such a dear quiet thing,\" Alice went on, half to herself, as she swam lazily about in the pool, \"and she sits purring so nicely by the fire, licking her paws and washing her face -- and she is such a nice soft thing to nurse -- and she's such a capital one for catching mice -- oh, I beg your pardon!\" cried Alice again, for this time the Mouse was bristling all over, and she felt certain it must be really offended. \"We won't talk about her any more if you'd rather not.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 9234,
+    "end": 9445,
+    "text": "\"We indeed!\" cried the Mouse, who was trembling down to the end of his tail. \"As if _I_ would talk on such a subject! Our family always _hated_ cats: nasty, low, vulgar things! Don't let me hear the name again!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 9446,
+    "end": 10254,
+    "text": "\"I won't indeed!\" said Alice, in a great hurry to change the subject of conversation. \"Are you -- are you fond -- of -- of dogs?\" The Mouse did not answer, so Alice went on eagerly: \"There is such a nice little dog near our house I should like to show you! A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it'll fetch things when you throw them, and it'll sit up and beg for its dinner, and all sorts of things -- I can't remember half of them -- and it belongs to a farmer, you know, and he says it's so useful, it's worth a hundred pounds! He says it kills all the rats and -- oh dear!\" cried Alice in a sorrowful tone, \"I'm afraid I've offended it again!\" For the Mouse was swimming away from her as hard as it could go, and making quite a commotion in the pool as it went.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8a39905e",
+    "docid": "alice:ch02",
+    "start": 10255,
+    "end": 10669,
+    "text": "So she called softly after it, \"Mouse dear! Do come back again, and we won't talk about cats or dogs either, if you don't like them!\" When the Mouse heard this, it turned round and swam slowly back to her: its face was quite pale (with passion, Alice thought), and it said in a low trembling voice, \"Let us get to the shore, and then I'll tell you my history, and you'll understand why it is I hate cats and dogs.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_9c131c77",
+    "docid": "alice:ch03",
+    "start": 17,
+    "end": 201,
+    "text": "a queer-looking party that assembled on the bank -- the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross, and uncomfortable.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_e87b0914",
+    "docid": "alice:ch03",
+    "start": 298,
+    "end": 435,
+    "text": "after a few minutes it seemed quite natural to Alice to find herself talking familiarly with them, as if she had known them all her life.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_d0cdf537",
+    "docid": "alice:ch03",
+    "start": 436,
+    "end": 725,
+    "text": "Indeed, she had quite a long argument with the Lory, who at last turned sulky, and would only say, \"I am older than you, and must know better;\" and this Alice would not allow without knowing how old it was, and, as the Lory positively refused to tell its age, there was no more to be said.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_19a491b9",
+    "docid": "alice:ch03",
+    "start": 726,
+    "end": 956,
+    "text": "At last the Mouse, who seemed to be a person of authority among them, called out, \"Sit down, all of you, and listen to me! _I'll_ soon make you dry enough!\" They all sat down at once, in a large ring, with the Mouse in the middle.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_19a491b9",
+    "docid": "alice:ch03",
+    "start": 1079,
+    "end": 1453,
+    "text": "\"Ahem!\" said the Mouse with an important air, \"are you all ready? This is the driest thing I know. Silence all round, if you please! 'William the Conqueror, whose cause was favoured by the pope, was soon submitted to by the English, who wanted leaders, and had been of late much accustomed to usurpation and conquest. Edwin and Morcar, the earls of Mercia and Northumbria --",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_19a491b9",
+    "docid": "alice:ch03",
+    "start": 4707,
+    "end": 4769,
+    "text": "\"But she must have a prize herself, you know,\" said the Mouse.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_34fd6443",
+    "docid": "alice:ch03",
+    "start": 2952,
+    "end": 3005,
+    "text": "the best thing to get us dry would be a Caucus-race.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_34fd6443",
+    "docid": "alice:ch03",
+    "start": 3223,
+    "end": 3264,
+    "text": "\"the best way to explain it is to do it.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_34fd6443",
+    "docid": "alice:ch03",
+    "start": 3375,
+    "end": 3914,
+    "text": "First it marked out a race-course, in a sort of circle, (\"the exact shape doesn't matter,\" it said,) and then all the party were placed along the course, here and there. There was no \"One, two, three, and away,\" but they began running when they liked, and left off when they liked, so that it was not easy to know when the race was over. However, when they had been running half an hour or so, and were quite dry again, the Dodo suddenly called out \"The race is over!\" and they all crowded round it, panting, and asking, \"But who has won?\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1ea3be3c",
+    "docid": "alice:ch03",
+    "start": 4191,
+    "end": 4239,
+    "text": "\"_Everybody_ has won, and all must have prizes.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_94504854",
+    "docid": "alice:ch03",
+    "start": 4568,
+    "end": 4585,
+    "text": "a box of comfits,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_94504854",
+    "docid": "alice:ch03",
+    "start": 4891,
+    "end": 4902,
+    "text": "a thimble,\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8c57ccea",
+    "docid": "alice:ch03",
+    "start": 4476,
+    "end": 4706,
+    "text": "Alice had no idea what to do, and in despair she put her hand in her pocket, and pulled out a box of comfits, (luckily the salt water had not got into it), and handed them round as prizes. There was exactly one a-piece, all round.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8c57ccea",
+    "docid": "alice:ch03",
+    "start": 4885,
+    "end": 4920,
+    "text": "\"Only a thimble,\" said Alice sadly.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8c57ccea",
+    "docid": "alice:ch03",
+    "start": 4957,
+    "end": 5166,
+    "text": "Then they all crowded round her once more, while the Dodo solemnly presented the thimble, saying \"We beg your acceptance of this elegant thimble;\" and, when it had finished this short speech, they all cheered.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_08810a06",
+    "docid": "alice:ch03",
+    "start": 8191,
+    "end": 8618,
+    "text": "This speech caused a remarkable sensation among the party. Some of the birds hurried off at once: one old Magpie began wrapping itself up very carefully, remarking, \"I really must be getting home; the night-air doesn't suit my throat!\" and a Canary called out in a trembling voice to its children, \"Come away, my dears! It's high time you were all in bed!\" On various pretexts they all moved off, and Alice was soon left alone.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_08810a06",
+    "docid": "alice:ch03",
+    "start": 8619,
+    "end": 8925,
+    "text": "\"I wish I hadn't mentioned Dinah!\" she said to herself in a melancholy tone. \"Nobody seems to like her, down here, and I'm sure she's the best cat in the world! Oh, my dear Dinah! I wonder if I shall ever see you any more!\" And here poor Alice began to cry again, for she felt very lonely and low-spirited.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_98f5a796",
+    "docid": "alice:ch04",
+    "start": 358,
+    "end": 418,
+    "text": "it was looking for the fan and the pair of white kid gloves,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_351bc329",
+    "docid": "alice:ch04",
+    "start": 662,
+    "end": 1028,
+    "text": "Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, \"Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!\" And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_351bc329",
+    "docid": "alice:ch04",
+    "start": 1029,
+    "end": 1060,
+    "text": "\"He took me for his housemaid,\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8fee98d1",
+    "docid": "alice:ch04",
+    "start": 2120,
+    "end": 2174,
+    "text": "a fan and two or three pairs of tiny white kid gloves:",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8fee98d1",
+    "docid": "alice:ch04",
+    "start": 2282,
+    "end": 2332,
+    "text": "a little bottle that stood near the looking-glass.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_20b73ec7",
+    "docid": "alice:ch04",
+    "start": 2756,
+    "end": 3815,
+    "text": "before she had drunk half the bottle, she found her head pressing against the ceiling, and had to stoop to save her neck from being broken. She hastily put down the bottle, saying to herself \"That's quite enough -- I hope I shan't grow any more -- As it is, I can't get out at the door -- I do wish I hadn't drunk quite so much!\" Alas! it was too late to wish that! She went on growing, and growing, and very soon had to kneel down on the floor: in another minute there was not even room for this, and she tried the effect of lying down with one elbow against the door, and the other arm curled round her head. Still she went on growing, and, as a last resource, she put one arm out of the window, and one foot up the chimney, and said to herself \"Now I can do no more, whatever happens. What _will_ become of me?\" Luckily for Alice, the little magic bottle had now had its full effect, and she grew no larger: still it was very uncomfortable, and, as there seemed to be no sort of chance of her ever getting out of the room again, no wonder she felt unhappy.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_f43a3776",
+    "docid": "alice:ch04",
+    "start": 9901,
+    "end": 10312,
+    "text": "Alice noticed with some surprise that the pebbles were all turning into little cakes as they lay on the floor, and a bright idea came into her head. \"If I eat one of these cakes,\" she thought, \"it's sure to make _some_ change in my size; and as it can't possibly make me larger, it must make me smaller, I suppose.\" So she swallowed one of the cakes, and was delighted to find that she began shrinking directly.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fb55cb2b",
+    "docid": "alice:ch04",
+    "start": 9166,
+    "end": 9196,
+    "text": "\"We must burn the house down!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fb55cb2b",
+    "docid": "alice:ch04",
+    "start": 9539,
+    "end": 9576,
+    "text": "\"A barrowful will do, to begin with.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fb55cb2b",
+    "docid": "alice:ch04",
+    "start": 9668,
+    "end": 9726,
+    "text": "a shower of little pebbles came rattling in at the window,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_29d8002c",
+    "docid": "alice:ch04",
+    "start": 10465,
+    "end": 10593,
+    "text": "The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_29d8002c",
+    "docid": "alice:ch04",
+    "start": 8537,
+    "end": 9122,
+    "text": "The first thing she heard was a general chorus of \"There goes Bill!\" then the Rabbit's voice along -- \"Catch him, you by the hedge!\" then silence, and then another confusion of voices -- \"Hold up his head -- Brandy now -- Don't choke him -- How was it, old fellow? What happened to you? Tell us all about it!\" Last came a little feeble, squeaking voice, (\"That's Bill,\" thought Alice,) \"Well, I hardly know -- No more, thank ye; I'm better now -- but I'm a deal too flustered to tell you -- all I know is, something comes at me like a Jack-in-the-box, and up I goes like a sky-rocket!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_16389b79",
+    "docid": "alice:ch04",
+    "start": 10220,
+    "end": 10464,
+    "text": "she swallowed one of the cakes, and was delighted to find that she began shrinking directly. As soon as she was small enough to get through the door, she ran out of the house, and found quite a crowd of little animals and birds waiting outside.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_4c7ca03c",
+    "docid": "alice:ch04",
+    "start": 11252,
+    "end": 11269,
+    "text": "An enormous puppy",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_4c7ca03c",
+    "docid": "alice:ch04",
+    "start": 13749,
+    "end": 13855,
+    "text": "a large blue caterpillar, that was sitting on the top with its arms folded, quietly smoking a long hookah,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fdcb26f4",
+    "docid": "alice:ch04",
+    "start": 10732,
+    "end": 11118,
+    "text": "\"The first thing I've got to do,\" said Alice to herself, as she wandered about in the wood, \"is to grow to my right size again; and the second thing is to find my way into that lovely garden. I think that will be the best plan.\" It sounded an excellent plan, no doubt, and very neatly and simply arranged; the only difficulty was, that she had not the smallest idea how to set about it;",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fdcb26f4",
+    "docid": "alice:ch04",
+    "start": 12997,
+    "end": 13187,
+    "text": "Oh dear! I'd nearly forgotten that I've got to grow up again! Let me see -- how _is_ it to be managed? I suppose I ought to eat or drink something or other; but the great question is, what?\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a2b5a36e",
+    "docid": "alice:ch05",
+    "start": 177,
+    "end": 193,
+    "text": "\"Who are _you?_\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_36ca592d",
+    "docid": "alice:ch05",
+    "start": 301,
+    "end": 465,
+    "text": "\"I -- I hardly know, sir, just at present -- at least I know who I _was_ when I got up this morning, but I think I must have been changed several times since then.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_36ca592d",
+    "docid": "alice:ch05",
+    "start": 744,
+    "end": 855,
+    "text": "\"for I can't understand it myself to begin with; and being so many different sizes in a day is very confusing.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_36ca592d",
+    "docid": "alice:ch05",
+    "start": 2391,
+    "end": 2522,
+    "text": "\"I'm afraid I am, sir,\" said Alice; \"I can't remember things as I used -- and I don't keep the same size for ten minutes together!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b738d89b",
+    "docid": "alice:ch05",
+    "start": 355,
+    "end": 465,
+    "text": "I know who I _was_ when I got up this morning, but I think I must have been changed several times since then.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b738d89b",
+    "docid": "alice:ch05",
+    "start": 797,
+    "end": 855,
+    "text": "being so many different sizes in a day is very confusing.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b738d89b",
+    "docid": "alice:ch05",
+    "start": 2469,
+    "end": 2522,
+    "text": "I don't keep the same size for ten minutes together!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b738d89b",
+    "docid": "alice:ch05",
+    "start": 4616,
+    "end": 4668,
+    "text": "\"only one doesn't like changing so often, you know.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b738d89b",
+    "docid": "alice:ch05",
+    "start": 11165,
+    "end": 11265,
+    "text": "How puzzling all these changes are! I'm never sure what I'm going to be, from one minute to another!",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_782dd338",
+    "docid": "alice:ch05",
+    "start": 856,
+    "end": 889,
+    "text": "\"It isn't,\" said the Caterpillar.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_782dd338",
+    "docid": "alice:ch05",
+    "start": 1121,
+    "end": 1155,
+    "text": "\"Not a bit,\" said the Caterpillar.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_782dd338",
+    "docid": "alice:ch05",
+    "start": 1267,
+    "end": 1327,
+    "text": "\"You!\" said the Caterpillar contemptuously. \"Who are _you?_\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_782dd338",
+    "docid": "alice:ch05",
+    "start": 4669,
+    "end": 4708,
+    "text": "\"I _don't_ know,\" said the Caterpillar.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_782dd338",
+    "docid": "alice:ch05",
+    "start": 5296,
+    "end": 5412,
+    "text": "\"You'll get used to it in time,\" said the Caterpillar; and it put the hookah into its mouth and began smoking again.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_71aa6bdb",
+    "docid": "alice:ch05",
+    "start": 4226,
+    "end": 4273,
+    "text": "\"That is not said right,\" said the Caterpillar.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_71aa6bdb",
+    "docid": "alice:ch05",
+    "start": 4274,
+    "end": 4365,
+    "text": "\"Not _quite_ right, I'm afraid,\" said Alice, timidly; \"some of the words have got altered.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_71aa6bdb",
+    "docid": "alice:ch05",
+    "start": 4366,
+    "end": 4474,
+    "text": "\"It is wrong from beginning to end,\" said the Caterpillar decidedly, and there was silence for some minutes.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ad8545ae",
+    "docid": "alice:ch05",
+    "start": 5684,
+    "end": 5768,
+    "text": "\"One side will make you grow taller, and the other side will make you grow shorter.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ad8545ae",
+    "docid": "alice:ch05",
+    "start": 5843,
+    "end": 5861,
+    "text": "\"Of the mushroom,\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "docid": "alice:ch05",
+    "start": 797,
+    "end": 855,
+    "text": "being so many different sizes in a day is very confusing.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "docid": "alice:ch05",
+    "start": 2427,
+    "end": 2522,
+    "text": "\"I can't remember things as I used -- and I don't keep the same size for ten minutes together!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "docid": "alice:ch05",
+    "start": 6325,
+    "end": 6467,
+    "text": "nibbled a little of the right-hand bit to try the effect: the next moment she felt a violent blow underneath her chin: it had struck her foot!",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "docid": "alice:ch05",
+    "start": 6578,
+    "end": 6604,
+    "text": "she was shrinking rapidly;",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "docid": "alice:ch05",
+    "start": 7611,
+    "end": 7677,
+    "text": "her neck would bend about easily in any direction, like a serpent.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_df3d4fa9",
+    "docid": "alice:ch05",
+    "start": 10827,
+    "end": 10944,
+    "text": "growing sometimes taller and sometimes shorter, until she had succeeded in bringing herself down to her usual height.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_52e0058f",
+    "docid": "alice:ch05",
+    "start": 797,
+    "end": 855,
+    "text": "being so many different sizes in a day is very confusing.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_52e0058f",
+    "docid": "alice:ch05",
+    "start": 4622,
+    "end": 4668,
+    "text": "one doesn't like changing so often, you know.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_52e0058f",
+    "docid": "alice:ch05",
+    "start": 6468,
+    "end": 6526,
+    "text": "She was a good deal frightened by this very sudden change,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_52e0058f",
+    "docid": "alice:ch05",
+    "start": 11201,
+    "end": 11265,
+    "text": "I'm never sure what I'm going to be, from one minute to another!",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b05b0f52",
+    "docid": "alice:ch05",
+    "start": 8014,
+    "end": 8045,
+    "text": "\"Serpent!\" screamed the Pigeon.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b05b0f52",
+    "docid": "alice:ch05",
+    "start": 8109,
+    "end": 8153,
+    "text": "\"Serpent, I say again!\" repeated the Pigeon,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b05b0f52",
+    "docid": "alice:ch05",
+    "start": 9419,
+    "end": 9641,
+    "text": "\"A likely story indeed!\" said the Pigeon in a tone of the deepest contempt. \"I've seen a good many little girls in my time, but never _one_ with such a neck as that! No, no! You're a serpent; and there's no use denying it.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b05b0f52",
+    "docid": "alice:ch05",
+    "start": 9855,
+    "end": 9969,
+    "text": "\"I don't believe it,\" said the Pigeon; \"but if they do, why then they're a kind of serpent, that's all I can say.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_2ef3c379",
+    "docid": "alice:ch06",
+    "start": 222,
+    "end": 281,
+    "text": "judging by his face only, she would have called him a fish)",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b1567aa0",
+    "docid": "alice:ch06",
+    "start": 776,
+    "end": 840,
+    "text": "\"For the Duchess. An invitation from the Queen to play croquet.\"",
+    "logic": "OR",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b1567aa0",
+    "docid": "alice:ch06",
+    "start": 940,
+    "end": 1004,
+    "text": "\"From the Queen. An invitation for the Duchess to play croquet.\"",
+    "logic": "OR",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a68bb337",
+    "docid": "alice:ch06",
+    "start": 97,
+    "end": 281,
+    "text": "a footman in livery came running out of the wood -- (she considered him to be a footman because he was in livery: otherwise, judging by his face only, she would have called him a fish)",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a68bb337",
+    "docid": "alice:ch06",
+    "start": 351,
+    "end": 509,
+    "text": "another footman in livery, with a round face, and large eyes like a frog; and both footmen, Alice noticed, had powdered hair that curled all over their heads.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_88da2802",
+    "docid": "alice:ch06",
+    "start": 1071,
+    "end": 1316,
+    "text": "Alice laughed so much at this, that she had to run back into the wood for fear of their hearing her; and when she next peeped out the Fish-Footman was gone, and the other was sitting on the ground near the door, staring stupidly up into the sky.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_d687a57d",
+    "docid": "alice:ch06",
+    "start": 1365,
+    "end": 1594,
+    "text": "\"There's no sort of use in knocking,\" said the Footman, \"and that for two reasons. First, because I'm on the same side of the door as you are; secondly, because they're making such a noise inside, no one could possibly hear you.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_353804bb",
+    "docid": "alice:ch06",
+    "start": 1667,
+    "end": 1787,
+    "text": "a constant howling and sneezing, and every now and then a great crash, as if a dish or kettle had been broken to pieces.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_43b067ea",
+    "docid": "alice:ch06",
+    "start": 3373,
+    "end": 3409,
+    "text": "And she opened the door and went in.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_61a8fc9b",
+    "docid": "alice:ch06",
+    "start": 7393,
+    "end": 7660,
+    "text": "it was a queer-shaped little creature, and held out its arms and legs in all directions, \"just like a star-fish,\" thought Alice. The poor little thing was snorting like a steam-engine when she caught it, and kept doubling itself up and straightening itself out again,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_61a8fc9b",
+    "docid": "alice:ch06",
+    "start": 8466,
+    "end": 8591,
+    "text": "it had a _very_ turn-up nose, much more like a snout than a real nose; also its eyes were getting extremely small for a baby:",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_61a8fc9b",
+    "docid": "alice:ch06",
+    "start": 9278,
+    "end": 9318,
+    "text": "it was neither more nor less than a pig,",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5b2edfc4",
+    "docid": "alice:ch06",
+    "start": 4271,
+    "end": 4334,
+    "text": "\"It's a Cheshire cat,\" said the Duchess, \"and that's why. Pig!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5b2edfc4",
+    "docid": "alice:ch06",
+    "start": 4631,
+    "end": 4686,
+    "text": "\"They all can,\" said the Duchess; \"and most of 'em do.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5b2edfc4",
+    "docid": "alice:ch06",
+    "start": 4799,
+    "end": 4860,
+    "text": "\"You don't know much,\" said the Duchess; \"and that's a fact.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5b2edfc4",
+    "docid": "alice:ch06",
+    "start": 6332,
+    "end": 6405,
+    "text": "\"Oh, don't bother _me_,\" said the Duchess; \"I never could abide figures!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_908fe0b3",
+    "docid": "alice:ch06",
+    "start": 9278,
+    "end": 9494,
+    "text": "it was neither more nor less than a pig, and she felt that it would be quite absurd for her to carry it further. So she set the little creature down, and felt quite relieved to see it trot away quietly into the wood.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ff96e0bb",
+    "docid": "alice:ch07",
+    "start": 66,
+    "end": 168,
+    "text": "the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_2373a59d",
+    "docid": "alice:ch07",
+    "start": 119,
+    "end": 374,
+    "text": "a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head. \"Very uncomfortable for the Dormouse,\" thought Alice; \"only, as it's asleep, I suppose it doesn't mind.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1a9a349e",
+    "docid": "alice:ch07",
+    "start": 774,
+    "end": 811,
+    "text": "\"I don't see any wine,\" she remarked.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1a9a349e",
+    "docid": "alice:ch07",
+    "start": 852,
+    "end": 919,
+    "text": "\"Then it wasn't very civil of you to offer it,\" said Alice angrily.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1c4860e4",
+    "docid": "alice:ch07",
+    "start": 1101,
+    "end": 1127,
+    "text": "\"Your hair wants cutting,\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_4b9b8a2e",
+    "docid": "alice:ch07",
+    "start": 1416,
+    "end": 1453,
+    "text": "\"Why is a raven like a writing-desk?\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_c9e884cc",
+    "docid": "alice:ch07",
+    "start": 2856,
+    "end": 2900,
+    "text": "\"I told you butter wouldn't suit the works!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5add752b",
+    "docid": "alice:ch07",
+    "start": 3450,
+    "end": 3519,
+    "text": "\"It tells the day of the month, and doesn't tell what o'clock it is!\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_65716b4c",
+    "docid": "alice:ch07",
+    "start": 4990,
+    "end": 5085,
+    "text": "Now, if you only kept on good terms with him, he'd do almost anything you liked with the clock.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_7fc23724",
+    "docid": "alice:ch07",
+    "start": 6519,
+    "end": 6638,
+    "text": "\"And ever since that,\" the Hatter went on in a mournful tone, \"he won't do a thing I ask! It's always six o'clock now.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5ce45c00",
+    "docid": "alice:ch08",
+    "start": 1286,
+    "end": 1456,
+    "text": "this here ought to have been a _red_ rose-tree, and we put a white one in by mistake; and if the Queen was to find it out, we should all have our heads cut off, you know.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_e5df37e1",
+    "docid": "alice:ch08",
+    "start": 358,
+    "end": 432,
+    "text": "\"I couldn't help it,\" said Five, in a sulky tone; \"Seven jogged my elbow.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ab88440b",
+    "docid": "alice:ch08",
+    "start": 2599,
+    "end": 2965,
+    "text": "Alice was rather doubtful whether she ought not to lie down on her face like the three gardeners, but she could not remember ever having heard of such a rule at processions; \"and besides, what would be the use of a procession,\" thought she, \"if people had all to lie down upon their faces, so that they couldn't see it?\" So she stood still where she was, and waited.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_ab88440b",
+    "docid": "alice:ch08",
+    "start": 8080,
+    "end": 8377,
+    "text": "Alice began to feel very uneasy: to be sure, she had not as yet had any dispute with the Queen, but she knew that it might happen any minute, \"and then,\" thought she, \"what would become of me? They're dreadfully fond of beheading people here; the great wonder is, that there's any one left alive!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1e6803c9",
+    "docid": "alice:ch08",
+    "start": 6623,
+    "end": 6892,
+    "text": "Alice thought she had never seen such a curious croquet-ground in her life; it was all ridges and furrows; the balls were live hedgehogs, the mallets live flamingoes, and the soldiers had to double themselves up and to stand on their hands and feet, to make the arches.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1e6803c9",
+    "docid": "alice:ch08",
+    "start": 7795,
+    "end": 8079,
+    "text": "The players all played at once without waiting for turns, quarrelling all the while, and fighting for the hedgehogs; and in a very short time the Queen was in a furious passion, and went stamping about, and shouting \"Off with his head!\" or \"Off with her head!\" about once in a minute.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a573f3f5",
+    "docid": "alice:ch08",
+    "start": 3878,
+    "end": 4007,
+    "text": "The Queen turned crimson with fury, and, after glaring at her for a moment like a wild beast, screamed \"Off with her head! Off --",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a573f3f5",
+    "docid": "alice:ch08",
+    "start": 4010,
+    "end": 4086,
+    "text": "\"Nonsense!\" said Alice, very loudly and decidedly, and the Queen was silent.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 8378,
+    "end": 8726,
+    "text": "She was looking about for some way of escape, and wondering whether she could get away without being seen, when she noticed a curious appearance in the air: it puzzled her very much at first, but, after watching it a minute or two, she made it out to be a grin, and she said to herself \"It's the Cheshire Cat: now I shall have somebody to talk to.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 8727,
+    "end": 8822,
+    "text": "\"How are you getting on?\" said the Cat, as soon as there was mouth enough for it to speak with.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 8823,
+    "end": 9138,
+    "text": "Alice waited till the eyes appeared, and then nodded. \"It's no use speaking to it,\" she thought, \"till its ears have come, or at least one of them.\" In another minute the whole head appeared, and then Alice put down her flamingo, and began an account of the game, feeling very glad she had someone to listen to her.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 9764,
+    "end": 9821,
+    "text": "\"How do you like the Queen?\" said the Cat in a low voice.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 9822,
+    "end": 10028,
+    "text": "\"Not at all,\" said Alice: \"she's so extremely -- \" Just then she noticed that the Queen was close behind her, listening: so she went on, \" -- likely to win, that it's hardly worth while finishing the game.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10061,
+    "end": 10174,
+    "text": "\"Who _are_ you talking to?\" said the King, going up to Alice, and looking at the Cat's head with great curiosity.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10175,
+    "end": 10257,
+    "text": "\"It's a friend of mine -- a Cheshire Cat,\" said Alice: \"allow me to introduce it.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10258,
+    "end": 10354,
+    "text": "\"I don't like the look of it at all,\" said the King: \"however, it may kiss my hand if it likes.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10355,
+    "end": 10390,
+    "text": "\"I'd rather not,\" the Cat remarked.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10596,
+    "end": 10760,
+    "text": "\"Well, it must be removed,\" said the King very decidedly, and he called the Queen, who was passing at the moment, \"My dear! I wish you would have this cat removed!\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10761,
+    "end": 10892,
+    "text": "The Queen had only one way of settling all difficulties, great or small. \"Off with his head!\" she said, without even looking round.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 10893,
+    "end": 10972,
+    "text": "\"I'll fetch the executioner myself,\" said the King eagerly, and he hurried off.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 12076,
+    "end": 12358,
+    "text": "When she got back to the Cheshire Cat, she was surprised to find quite a large crowd collected round it: there was a dispute going on between the executioner, the King, and the Queen, who were all talking at once, while all the rest were quite silent, and looked very uncomfortable.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 12586,
+    "end": 12795,
+    "text": "The executioner's argument was, that you couldn't cut off a head unless there was a body to cut it off from: that he had never had to do such a thing before, and he wasn't going to begin at _his_ time of life.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 12796,
+    "end": 12908,
+    "text": "The King's argument was, that anything that had a head could be beheaded, and that you weren't to talk nonsense.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 12909,
+    "end": 13036,
+    "text": "The Queen's argument was, that if something wasn't done about it in less than no time she'd have everybody executed, all round.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 13120,
+    "end": 13226,
+    "text": "Alice could think of nothing else to say but \"It belongs to the Duchess: you'd better ask _her_ about it.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_cd80a36a",
+    "docid": "alice:ch08",
+    "start": 13343,
+    "end": 13602,
+    "text": "The Cat's head began fading away the moment he was gone, and, by the time he had come back with the Duchess, it had entirely disappeared; so the King and the executioner ran wildly up and down looking for it, while the rest of the party went back to the game.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8f2cc38c",
+    "docid": "alice:ch08",
+    "start": 6180,
+    "end": 6207,
+    "text": "\"She boxed the Queen's ears",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_37dd2184",
+    "docid": "alice:ch08",
+    "start": 12586,
+    "end": 12795,
+    "text": "The executioner's argument was, that you couldn't cut off a head unless there was a body to cut it off from: that he had never had to do such a thing before, and he wasn't going to begin at _his_ time of life.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_37dd2184",
+    "docid": "alice:ch08",
+    "start": 12796,
+    "end": 12908,
+    "text": "The King's argument was, that anything that had a head could be beheaded, and that you weren't to talk nonsense.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_37dd2184",
+    "docid": "alice:ch08",
+    "start": 12909,
+    "end": 13036,
+    "text": "The Queen's argument was, that if something wasn't done about it in less than no time she'd have everybody executed, all round.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5b8bd3f8",
+    "docid": "alice:ch08",
+    "start": 4986,
+    "end": 5081,
+    "text": "\"You shan't be beheaded!\" said Alice, and she put them into a large flower-pot that stood near.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_4f44cfb1",
+    "docid": "alice:ch09",
+    "start": 169,
+    "end": 344,
+    "text": "Alice was very glad to find her in such a pleasant temper, and thought to herself that perhaps it was only the pepper that had made her so savage when they met in the kitchen.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_01a628d5",
+    "docid": "alice:ch09",
+    "start": 256,
+    "end": 344,
+    "text": "perhaps it was only the pepper that had made her so savage when they met in the kitchen.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_f6a61b35",
+    "docid": "alice:ch09",
+    "start": 1211,
+    "end": 1300,
+    "text": "\"Tut, tut, child!\" said the Duchess. \"Everything's got a moral, if only you can find it.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_244898d9",
+    "docid": "alice:ch09",
+    "start": 1248,
+    "end": 1300,
+    "text": "\"Everything's got a moral, if only you can find it.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_7c225ed8",
+    "docid": "alice:ch09",
+    "start": 1366,
+    "end": 1593,
+    "text": "Alice did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon Alice's shoulder, and it was an uncomfortably sharp chin.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_505e28d3",
+    "docid": "alice:ch09",
+    "start": 2383,
+    "end": 2451,
+    "text": "\"the reason is, that I'm doubtful about the temper of your flamingo.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_51c7e77a",
+    "docid": "alice:ch09",
+    "start": 2581,
+    "end": 2646,
+    "text": "\"Very true,\" said the Duchess: \"flamingoes and mustard both bite.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_51c7e77a",
+    "docid": "alice:ch09",
+    "start": 2713,
+    "end": 2757,
+    "text": "\"Only mustard isn't a bird,\" Alice remarked.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_51c7e77a",
+    "docid": "alice:ch09",
+    "start": 2842,
+    "end": 2882,
+    "text": "\"It's a mineral, I _think_,\" said Alice.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_51c7e77a",
+    "docid": "alice:ch09",
+    "start": 3104,
+    "end": 3233,
+    "text": "\"Oh, I know!\" exclaimed Alice, who had not attended to this last remark, \"it's a vegetable. It doesn't look like one, but it is.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_78bcffc7",
+    "docid": "alice:ch09",
+    "start": 4392,
+    "end": 4678,
+    "text": "But here, to Alice's great surprise, the Duchess's voice died away, even in the middle of her favourite word 'moral,' and the arm that was linked into hers began to tremble. Alice looked up, and there stood the Queen in front of them, with her arms folded, frowning like a thunderstorm.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_78bcffc7",
+    "docid": "alice:ch09",
+    "start": 4924,
+    "end": 4978,
+    "text": "The Duchess took her choice, and was gone in a moment.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_78bcffc7",
+    "docid": "alice:ch09",
+    "start": 5134,
+    "end": 5368,
+    "text": "The other guests had taken advantage of the Queen's absence, and were resting in the shade: however, the moment they saw her, they hurried back to the game, the Queen merely remarking that a moment's delay would cost them their lives.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_78bcffc7",
+    "docid": "alice:ch09",
+    "start": 5369,
+    "end": 5518,
+    "text": "All the time they were playing the Queen never left off quarrelling with the other players, and shouting \"Off with his head!\" or \"Off with her head!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b19172fd",
+    "docid": "alice:ch09",
+    "start": 5369,
+    "end": 5817,
+    "text": "All the time they were playing the Queen never left off quarrelling with the other players, and shouting \"Off with his head!\" or \"Off with her head!\" Those whom she sentenced were taken into custody by the soldiers, who of course had to leave off being arches to do this, so that by the end of half an hour or so there were no arches left, and all the players, except the King, the Queen, and Alice, were in custody and under sentence of execution.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_70a1bed3",
+    "docid": "alice:ch09",
+    "start": 6772,
+    "end": 6942,
+    "text": "Alice did not quite like the look of the creature, but on the whole she thought it would be quite as safe to stay with it as to go after that savage Queen: so she waited.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_70a1bed3",
+    "docid": "alice:ch09",
+    "start": 7592,
+    "end": 7614,
+    "text": "She pitied him deeply.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5229c895",
+    "docid": "alice:ch10",
+    "start": 125,
+    "end": 167,
+    "text": "for a minute or two sobs choked his voice.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_99b595c3",
+    "docid": "alice:ch10",
+    "start": 785,
+    "end": 1863,
+    "text": "\"you first form into a line along the sea-shore -- \" \"Two lines!\" cried the Mock Turtle. \"Seals, turtles, salmon, and so on; then, when you've cleared all the jelly-fish out of the way -- \" \"_That_ generally takes some time,\" interrupted the Gryphon. \" -- you advance twice -- \" \"Each with a lobster as a partner!\" cried the Gryphon. \"Of course,\" the Mock Turtle said: \"advance twice, set to partners -- \" \" -- change lobsters, and retire in same order,\" continued the Gryphon. \"Then, you know,\" the Mock Turtle went on, \"you throw the -- \" \"The lobsters!\" shouted the Gryphon, with a bound into the air. \" -- as far out to sea as you can -- \" \"Swim after them!\" screamed the Gryphon. \"Turn a somersault in the sea!\" cried the Mock Turtle, capering wildly about. \"Change lobsters again!\" yelled the Gryphon at the top of its voice. \"Back to land again, and that's all the first figure,\" said the Mock Turtle, suddenly dropping his voice; and the two creatures, who had been jumping about like mad things all this time, sat down again very sadly and quietly, and looked at Alice.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_71cc7809",
+    "docid": "alice:ch10",
+    "start": 396,
+    "end": 532,
+    "text": "\"You may not have lived much under the sea -- \" (\"I haven't,\" said Alice) -- \"and perhaps you were never even introduced to a lobster --",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_1a97db7a",
+    "docid": "alice:ch10",
+    "start": 2207,
+    "end": 2428,
+    "text": "So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too close, and waving their forepaws to mark the time, while the Mock Turtle sang this, very slowly and sadly:",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_5b41be32",
+    "docid": "alice:ch10",
+    "start": 3594,
+    "end": 3758,
+    "text": "\"Thank you, it's a very interesting dance to watch,\" said Alice, feeling very glad that it was over at last: \"and I do so like that curious song about the whiting!\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_51c9521b",
+    "docid": "alice:ch10",
+    "start": 4452,
+    "end": 4699,
+    "text": "\"The reason is,\" said the Gryphon, \"that they _would_ go with the lobsters to the dance. So they got thrown out to sea. So they had to fall a long way. So they got their tails fast in their mouths. So they couldn't get them out again. That's all.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_955f4066",
+    "docid": "alice:ch10",
+    "start": 5321,
+    "end": 5431,
+    "text": "\"Boots and shoes under the sea,\" the Gryphon went on in a deep voice, \"are done with a whiting. Now you know.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fd50095c",
+    "docid": "alice:ch10",
+    "start": 0,
+    "end": 167,
+    "text": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but for a minute or two sobs choked his voice.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fd50095c",
+    "docid": "alice:ch10",
+    "start": 289,
+    "end": 395,
+    "text": "At last the Mock Turtle recovered his voice, and, with tears running down his cheeks, he went on again: --",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fd50095c",
+    "docid": "alice:ch10",
+    "start": 8323,
+    "end": 8412,
+    "text": "\"Well, I never heard it before,\" said the Mock Turtle; \"but it sounds uncommon nonsense.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fd50095c",
+    "docid": "alice:ch10",
+    "start": 8544,
+    "end": 8603,
+    "text": "\"I should like to have it explained,\" said the Mock Turtle.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fd50095c",
+    "docid": "alice:ch10",
+    "start": 8683,
+    "end": 8787,
+    "text": "\"But about his toes?\" the Mock Turtle persisted. \"How _could_ he turn them out with his nose, you know?\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fd50095c",
+    "docid": "alice:ch10",
+    "start": 9563,
+    "end": 9733,
+    "text": "\"What _is_ the use of repeating all that stuff,\" the Mock Turtle interrupted, \"if you don't explain it as you go on? It's by far the most confusing thing _I_ ever heard!\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_4ee2d22a",
+    "docid": "alice:ch10",
+    "start": 10952,
+    "end": 11012,
+    "text": "a cry of \"The trial's beginning!\" was heard in the distance.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_034bbc2c",
+    "docid": "alice:ch11",
+    "start": 0,
+    "end": 75,
+    "text": "The King and Queen of Hearts were seated on their throne when they arrived,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_2bf455d5",
+    "docid": "alice:ch11",
+    "start": 3245,
+    "end": 3287,
+    "text": "The Knave of Hearts, he stole those tarts,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_113ac3e2",
+    "docid": "alice:ch11",
+    "start": 1819,
+    "end": 1950,
+    "text": "\"They're putting down their names,\" the Gryphon whispered in reply, \"for fear they should forget them before the end of the trial.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_4de21d0e",
+    "docid": "alice:ch11",
+    "start": 1118,
+    "end": 1188,
+    "text": "he did not look at all comfortable, and it was certainly not becoming.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_82e2f89e",
+    "docid": "alice:ch11",
+    "start": 2593,
+    "end": 2720,
+    "text": "Alice could _not_ stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_02effcea",
+    "docid": "alice:ch11",
+    "start": 3642,
+    "end": 3708,
+    "text": "a teacup in one hand and a piece of bread-and-butter in the other.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b88a05f7",
+    "docid": "alice:ch11",
+    "start": 3897,
+    "end": 4050,
+    "text": "The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse. \"Fourteenth of March, I _think_ it was,\" he said.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b88a05f7",
+    "docid": "alice:ch11",
+    "start": 4051,
+    "end": 4084,
+    "text": "\"Fifteenth,\" said the March Hare.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_b88a05f7",
+    "docid": "alice:ch11",
+    "start": 4085,
+    "end": 4117,
+    "text": "\"Sixteenth,\" added the Dormouse.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_fea501ac",
+    "docid": "alice:ch11",
+    "start": 8606,
+    "end": 8642,
+    "text": "and just take his head off outside,\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_bb928c6a",
+    "docid": "alice:ch11",
+    "start": 7641,
+    "end": 7784,
+    "text": "They had a large canvas bag, which tied up at the mouth with strings: into this they slipped the guinea-pig, head first, and then sat upon it.)",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_bb928c6a",
+    "docid": "alice:ch11",
+    "start": 8233,
+    "end": 8287,
+    "text": "Here the other guinea-pig cheered, and was suppressed.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_6ba911b6",
+    "docid": "alice:ch11",
+    "start": 8797,
+    "end": 8837,
+    "text": "The next witness was the Duchess's cook.",
+    "logic": "OR",
+    "group": "g1"
+  },
+  {
+    "qid": "q_6ba911b6",
+    "docid": "alice:ch11",
+    "start": 10228,
+    "end": 10311,
+    "text": "the White Rabbit read out, at the top of his shrill little voice, the name \"Alice!\"",
+    "logic": "OR",
+    "group": "g1"
+  },
+  {
+    "qid": "q_a50aa18f",
+    "docid": "alice:ch12",
+    "start": 119,
+    "end": 210,
+    "text": "she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt,",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_6f4ebed1",
+    "docid": "alice:ch12",
+    "start": 309,
+    "end": 703,
+    "text": "reminding her very much of a globe of goldfish she had accidentally upset the week before. \"Oh, I _beg_ your pardon!\" she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head, and she had a vague sort of idea that they must be collected at once and put back into the jury-box, or they would die.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_7f290af8",
+    "docid": "alice:ch12",
+    "start": 905,
+    "end": 1105,
+    "text": "Alice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_80a8f99e",
+    "docid": "alice:ch12",
+    "start": 1703,
+    "end": 1725,
+    "text": "\"Nothing,\" said Alice.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_80a8f99e",
+    "docid": "alice:ch12",
+    "start": 1768,
+    "end": 1799,
+    "text": "\"Nothing whatever,\" said Alice.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_80a8f99e",
+    "docid": "alice:ch12",
+    "start": 1800,
+    "end": 1860,
+    "text": "\"That's very important,\" the King said, turning to the jury.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_aa9caa8d",
+    "docid": "alice:ch12",
+    "start": 1957,
+    "end": 2089,
+    "text": "\"_Un_important, your Majesty means, of course,\" he said in a very respectful tone, but frowning and making faces at him as he spoke.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_aa9caa8d",
+    "docid": "alice:ch12",
+    "start": 3166,
+    "end": 3313,
+    "text": "\"There's more evidence to come yet, please your Majesty,\" said the White Rabbit, jumping up in a great hurry; \"this paper has just been picked up.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_7612f076",
+    "docid": "alice:ch12",
+    "start": 2626,
+    "end": 2699,
+    "text": "\"Rule Forty-two. _All persons more than a mile high to leave the court_.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_76f5a7eb",
+    "docid": "alice:ch12",
+    "start": 2993,
+    "end": 3026,
+    "text": "\"Then it ought to be Number One,\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8b4015c0",
+    "docid": "alice:ch12",
+    "start": 3774,
+    "end": 3827,
+    "text": "\"It isn't a letter, after all: it's a set of verses.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_8b4015c0",
+    "docid": "alice:ch12",
+    "start": 4871,
+    "end": 5630,
+    "text": "These were the verses the White Rabbit read: -- \"They told me you had been to her, And mentioned me to him: She gave me a good character, But said I could not swim. He sent them word I had not gone (We know it to be true): If she should push the matter on, What would become of you? I gave her one, they gave him two, You gave us three or more; They all returned from him to you, Though they were mine before. If I or she should chance to be Involved in this affair, He trusts to you to set them free, Exactly as we were. My notion was that you had been (Before she had this fit) An obstacle that came between Him, and ourselves, and it. Don't let him know she liked them best, For this must ever be A secret, kept from all the rest, Between yourself and me.\"",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_41dba178",
+    "docid": "alice:ch12",
+    "start": 3625,
+    "end": 3827,
+    "text": "\"It isn't directed at all,\" said the White Rabbit; \"in fact, there's nothing written on the _outside_.\" He unfolded the paper as he spoke, and added \"It isn't a letter, after all: it's a set of verses.\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_0fbd729b",
+    "docid": "alice:ch12",
+    "start": 6128,
+    "end": 6493,
+    "text": "\"If there's no meaning in it,\" said the King, \"that saves a world of trouble, you know, as we needn't try to find any. And yet I don't know,\" he went on, spreading out the verses on his knee, and looking at them with one eye; \"I seem to see some meaning in them, after all. \" -- _said I could not swim_ -- \" you can't swim, can you?\" he added, turning to the Knave.",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_0fbd729b",
+    "docid": "alice:ch12",
+    "start": 6622,
+    "end": 6871,
+    "text": "\"All right, so far,\" said the King, and he went on muttering over the verses to himself: \"'_We know it to be true_ -- ' that's the jury, of course -- '_I gave her one, they gave him two_ -- ' why, that must be what he did with the tarts, you know --",
+    "logic": "AND",
+    "group": "g1"
+  },
+  {
+    "qid": "q_d8d70e99",
+    "docid": "alice:ch12",
+    "start": 7973,
+    "end": 8036,
+    "text": "\"Off with her head!\" the Queen shouted at the top of her voice.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_059e0e4f",
+    "docid": "alice:ch12",
+    "start": 7973,
+    "end": 8509,
+    "text": "\"Off with her head!\" the Queen shouted at the top of her voice. Nobody moved. \"Who cares for you?\" said Alice, (she had grown to her full size by this time.) \"You're nothing but a pack of cards!\" At this the whole pack rose up into the air, and came flying down upon her: she gave a little scream, half of fright and half of anger, and tried to beat them off, and found herself lying on the bank, with her head in the lap of her sister, who was gently brushing away some dead leaves that had fluttered down from the trees upon her face.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_d5d5f4aa",
+    "docid": "alice:ch12",
+    "start": 8245,
+    "end": 8509,
+    "text": "she gave a little scream, half of fright and half of anger, and tried to beat them off, and found herself lying on the bank, with her head in the lap of her sister, who was gently brushing away some dead leaves that had fluttered down from the trees upon her face.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_d5d5f4aa",
+    "docid": "alice:ch12",
+    "start": 8510,
+    "end": 8586,
+    "text": "\"Wake up, Alice dear!\" said her sister; \"Why, what a long sleep you've had!\"",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_d5d5f4aa",
+    "docid": "alice:ch12",
+    "start": 8587,
+    "end": 9032,
+    "text": "\"Oh, I've had such a curious dream!\" said Alice, and she told her sister, as well as she could remember them, all these strange Adventures of hers that you have just been reading about; and when she had finished, her sister kissed her, and said, \"It _was_ a curious dream, dear, certainly: but now run in to your tea; it's getting late.\" So Alice got up and ran off, thinking while she ran, as well she might, what a wonderful dream it had been.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_071339ff",
+    "docid": "alice:ch12",
+    "start": 9033,
+    "end": 9270,
+    "text": "But her sister sat still just as she left her, leaning her head on her hand, watching the setting sun, and thinking of little Alice and all her wonderful Adventures, till she too began dreaming after a fashion, and this was her dream: --",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  },
+  {
+    "qid": "q_e261599c",
+    "docid": "alice:ch12",
+    "start": 11052,
+    "end": 11575,
+    "text": "how this same little sister of hers would, in the after-time, be herself a grown woman; and how she would keep, through all her riper years, the simple and loving heart of her childhood: and how she would gather about her other little children, and make _their_ eyes bright and eager with many a strange tale, perhaps even with the dream of Wonderland of long ago: and how she would feel with all their simple sorrows, and find a pleasure in all their simple joys, remembering her own child-life, and the happy summer days.",
+    "logic": "COMPLETE_SPAN",
+    "group": "g1"
+  }
+]

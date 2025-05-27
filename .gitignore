@@ -2,17 +2,17 @@
 # History
 .history/*
 
-# Data
-data/processed/*
-data/raw/*
+# # Data
+# data/processed/*
+# data/raw/*
 
-# Ignore any data in the following directories
-data/processed/*
-data/raw/*
+# # Ignore any data in the following directories
+# data/processed/*
+# data/raw/*
 
-# But keep tracking these specific files (if needed)
-!data/processed/.gitkeep
-!data/raw/.gitkeep
+# # But keep tracking these specific files (if needed)
+# !data/processed/.gitkeep
+# !data/raw/.gitkeep
 
 ## macOS ##
 .DS_Store
