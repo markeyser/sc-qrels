@@ -120,14 +120,14 @@ Metrics should be used to compare:
 ## Summary: Steps for Constructing the Synthetic Benchmark
 
 | Step | Task                                                      |
-| - |  |
+|------|-----------------------------------------------------------|
 | 1    | Select 10–20 long-form public domain documents            |
 | 2    | Create 30–50 queries with manually annotated answer spans |
 | 3    | Include logical grouping (AND/OR) in some queries         |
 | 4    | Apply multiple chunking strategies                        |
 | 5    | Align spans to chunks using SC-Qrels                      |
 | 6    | Simulate retrieval using embedding models                 |
-| 7    | Evaluate using IR and custom metrics such as AGS\@k       |
+| 7    | Evaluate using IR and custom metrics such as AGS@k        |
 
 
 
