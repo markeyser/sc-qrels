@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "sc-qrels"
+version = "0.1.0"
+description = ""
+authors = ["Marcos Keyser <marcos_aguilerakeyser@newyorklife.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10.13"
+label-studio = "^1.18.0"
+transformers = "^4.52.3"
+torchvision = "^0.22.0"
+torchaudio = "^2.7.0"
+sentence-transformers = "^4.1.0"
+dotenv = "^0.9.9"
+google-genai = "^1.16.1"
+nltk = "^3.9.1"
+pytrec-eval = "^0.5"
+pandas = "^2.2.3"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
